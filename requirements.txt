@@ -1,0 +1,10 @@
+langchain==0.1.*
+langchain-community==0.0.*
+langchain-core==0.1.*
+langchain-openai==0.1.*
+langchain-text-splitters==0.0.*
+langchain-voyageai==0.1.*
+langsmith==0.1.*
+chainlit==1.0.*
+python-dotenv==1.0.*
+chromadb

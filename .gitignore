@@ -1,0 +1,6 @@
+.chainlit
+.vscode
+chrom_db
+.env
+__pycache__
+.venv
